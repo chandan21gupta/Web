@@ -90,7 +90,6 @@ simplejson==3.13.2
 six==1.11.0
 Sphinx==1.6.7
 spyder==3.2.6
-system-service==0.3
 systemd-python==234
 tables==3.4.2
 testpath==0.3.1
