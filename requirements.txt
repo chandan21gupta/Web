@@ -95,7 +95,6 @@ tables==3.4.2
 testpath==0.3.1
 tornado==4.5.3
 traitlets==4.3.2
-unity-scope-manpages==0.1
 unity-scope-openclipart==0.1
 unity-scope-texdoc==0.1
 unity-scope-tomboy==0.1
