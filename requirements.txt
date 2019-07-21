@@ -8,7 +8,6 @@ blinker==1.4
 certifi==2018.1.18
 chardet==3.0.4
 cloudpickle==0.5.2
-command-not-found==0.3
 cryptography==2.1.4
 cupshelpers==1.0
 cycler==0.10.0
