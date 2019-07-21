@@ -5,7 +5,7 @@ import gensim
 import praw
 from praw.models import MoreComments
 
-LOG = pickle.load(open('model_LOGREG.sav','rb'))
+LOG = pickle.load(open('modelTCBU-c2.pkl','rb'))
 reddit = praw.Reddit(client_id = "0hliVZBlDhlipQ",client_secret = "pjUJDMMXhYaEmyJaLkQYb_2Fccg",user_agent = "Reddit Flair Detector",username = "chandan21121998",password = "Chandan@1234")
 
 def prediction(url):
