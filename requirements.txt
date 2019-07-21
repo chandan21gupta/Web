@@ -95,7 +95,6 @@ tables==3.4.2
 testpath==0.3.1
 tornado==4.5.3
 traitlets==4.3.2
-unity-scope-virtualbox==0.1
 unity-scope-yelp==0.1
 unity-scope-zotero==0.1
 unity-tweak-tool==0.0.7
