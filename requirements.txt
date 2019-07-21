@@ -84,7 +84,6 @@ requests-unixsocket==0.1.5
 roman==2.0.0
 rope==0.10.5
 scipy==0.19.1
-screen-resolution-extra==0.0.0
 SecretStorage==2.3.1
 simplegeneric==0.8.1
 simplejson==3.13.2
