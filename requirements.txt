@@ -102,5 +102,4 @@ wcwidth==0.1.7
 webencodings==0.5
 websockets==7.0
 wrapt==1.9.0
-xkit==0.0.0
 zope.interface==4.3.2
