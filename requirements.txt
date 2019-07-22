@@ -6,6 +6,7 @@ bs4==0.0.1
 certifi==2019.6.16
 chardet==3.0.4
 Click==7.0
+cycler==0.10.0
 docutils==0.15
 Flask==1.1.1
 gensim==3.8.0
@@ -15,13 +16,17 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 jmespath==0.9.4
 joblib==0.13.2
+kiwisolver==1.1.0
 lxml==4.3.4
 MarkupSafe==1.1.1
+matplotlib==3.1.1
 nltk==3.4.4
 numpy==1.16.4
 pandas==0.25.0
 praw==6.3.1
 prawcore==1.0.1
+pymongo==3.8.0
+pyparsing==2.4.1
 python-dateutil==2.8.0
 pytz==2019.1
 requests==2.22.0

@@ -50,6 +50,10 @@ def action(flair=None):
 	flair = str(prediction(text))
 	return render_template('result.html',flair=str(flair))
 
+@app.route("/stats")
+def stats():
+	return render_template('graph.html')
+
 # run the application
 if __name__ == "__main__":
     app.run()
